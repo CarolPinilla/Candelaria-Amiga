@@ -1,0 +1,24 @@
+/*Tamaño de fuente para toda la pagina*/
+body { 
+    font-size: 18px;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+/*color texto desplegable menu*/
+.dropdown-content li > a, .dropdown-content li > span {    
+    color: #263238;    
+}
+/*Color de texto y fondo cuando hay hover en el menu desplegable*/
+.dropdown-content li > a:hover, .dropdown-content li > span{    
+    color: #ffffff;
+	background-color:#3949ab ;    
+}
+/*Color de los circulos del slide*/
+.slider .indicators .indicator-item.active {
+    background-color: #3949ab ;
+}
+
