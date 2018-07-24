@@ -1,0 +1,3 @@
+Usuario bd: milton_suarez
+Contraseña: candelaria@2018
+Host: localhost
